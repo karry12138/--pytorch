@@ -37,7 +37,7 @@ https://github.com/kaieye/2022-Machine-Learning-Specialization
 # 1.3安装环境
 使用本地的anaconda直接新建python=3.8的环境，命名为deep2learning。需要安装的包为jupyter d2l torch torchvision 。
 需要注意的是，在能使用魔法的前提下国外源比国内源快得多。
-另外还有从从官网https://zh-v2.d2l.ai/chapter_installation/index.html下载的这本书的代码d2l，点击导航栏的jupyter记事本即可。
+另外还有从从官网https://zh-v2.d2l.ai/chapter_installation/index.html 下载的这本书的代码d2l，点击导航栏的jupyter记事本即可。
 
 # 另附
 教材官网里每一段代码都有colab环境，如果在外面可以直接使用此环境。

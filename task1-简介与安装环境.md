@@ -25,8 +25,11 @@ https://github.com/MLNLP-World/DeepLearning-MuLi-Notes
 吴恩达机器学习-三节大课
 很遗憾才跟着学了1/3
 【[双语人译|带测试]吴恩达2022机器学习专项课程(一）监督学习-哔哩哔哩】 https://b23.tv/udeQv5J
+
 【[双语人译|带测试]吴恩达2022机器学习专项课程(二）：高级学习算法 Advanced Learning Algorithms-哔哩哔哩】 https://b23.tv/M0SFSvF
+
 【[双语人译|带测试]吴恩达2022机器学习专项课程(三）：无监督学习/推荐系统/强化学习-哔哩哔哩】 https://b23.tv/RKBhCSO
+
 https://github.com/kaieye/2022-Machine-Learning-Specialization
 
 

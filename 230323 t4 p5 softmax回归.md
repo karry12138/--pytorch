@@ -30,7 +30,7 @@ o_3 &= x_1 w_{31} + x_2 w_{32} + x_3 w_{33} + x_4 w_{34} + b_3.
 $$
 
 想要将预测转化为各类别的概率（置信度），需使用softmax运算
-$ softmax(\mathbf{X})_{ij}=\frac{exp(\mathbf{X}_{ij})}{\sum_kexp(\mathbf{X}_{ik})} $
+$softmax(\mathbf{X})_{ij}=\frac{exp(\mathbf{X}_{ij})}{\sum_kexp(\mathbf{X}_{ik})}$
 $\mathbf{X}$是由样本数*$[o_1,o_2....o_k]$ 构成的矩阵，softmax对于每一个样本，求其在各输出类别上的置信度向量$[\hat{y_1},\hat{y_2}...\hat{y_j}...\hat{y_k}]$,其中$\hat{y_j}=\frac{exp(o_j)}{exp(o_1)+exp(o_2)+...+exp(o_k)}$
 ## 损失函数
 
